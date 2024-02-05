@@ -12,9 +12,9 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/omkarrai0601",
   resume:
-    "https://drive.google.com/file/d/12gDrlsrUoTu31OPDjfOBQV2x2sgjdXAY/view?usp=sharing",
+    "https://drive.google.com/file/d/1LVIRM_1xiWcerbJe1dHqyH5Jt_CW-w-v/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/omkar-rai-519a80203/",
-  // twitter: "https://twitter.com/RishavChanda",
+  // twitter: "",
   insta: "https://www.instagram.com/omi.rai18?igsh=MTluYXowM2xvdmJpNA%3D%3D&utm_source=qr",
   facebook: "https://www.facebook.com/omkar.rai.186",
 };
@@ -164,7 +164,7 @@ export const experiences = [
     // img: "",
     role: "Front-End Developer Intern",
     company: "PHN Technologies.",
-    date: "May 2023 - July 2023",
+    date: "April 2023 - June 2023",
     desc: "During my internship, I actively participated in the design and development of an e-commerce project leveraging my skills in website designing. I collaborated closely with the team to create visually appealing and user-friendly web interfaces.",
     skills: [
       "React",
@@ -178,10 +178,10 @@ export const experiences = [
   {
     id: 0,
     // img: "",
-    role: "Frontend Developer Intern",
+    role: "Frontend Developer",
     company: "Test Yantra Software Solution",
-    date: "January 2023 - April 2023",
-    desc: "During the first two months of my internship I focused on mastering HTML and CSS. In the following two months   I seamlessly integrated these skills into React contributing to the development of web applications.",
+    date: "September 2022 - March 2023",
+    desc: "Spearheaded the design and development of the front end for Suruchi Diary's website during a 6-month tenure at Test Yantra Software Solution.Successfully translated project requirements into visually appealing and user-friendly web interfaces, ensuring a seamless and engaging user experience.Collaborated closely with cross-functional teams, including back-end developers and UI/UX designers, to ensure alignment with project goals and timelines.Implemented responsive design principles, enhancing the website's accessibility across various devices and screen sizes.",
     skills: [
       "ReactJS",
       "Bootstrap",
