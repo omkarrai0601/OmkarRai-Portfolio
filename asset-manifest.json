@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/OmkarRai-Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/OmkarRai-Portfolio/static/js/main.ad6f27d8.js",
+    "main.js": "/OmkarRai-Portfolio/static/js/main.e7021bd3.js",
     "static/media/omi.jpg": "/OmkarRai-Portfolio/static/media/omi.219b15b2b4ec18f5b60e.jpg",
     "index.html": "/OmkarRai-Portfolio/index.html",
     "main.bf538fe7.css.map": "/OmkarRai-Portfolio/static/css/main.bf538fe7.css.map",
-    "main.ad6f27d8.js.map": "/OmkarRai-Portfolio/static/js/main.ad6f27d8.js.map"
+    "main.e7021bd3.js.map": "/OmkarRai-Portfolio/static/js/main.e7021bd3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.ad6f27d8.js"
+    "static/js/main.e7021bd3.js"
   ]
 }
