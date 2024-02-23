@@ -146,10 +146,10 @@ export const experiences = [
   {
     id: 0,
     // img: "",
-    role: "Front-End Developer Intern",
-    company: "PHN Technologies.",
+    role: "Web Developer",
+    company: "PHN Technologies",
     date: "April 2023 - August 2023",
-    desc: "During my internship, I actively participated in the design and development of an e-commerce project leveraging my skills in website designing. I collaborated closely with the team to create visually appealing and user-friendly web interfaces.",
+    desc: "I actively participated in the design and development of an e-commerce project leveraging my skills in website designing. I collaborated closely with the team to create visually appealing and user-friendly web interfaces.",
     skills: [
       "React",
       "HTML",
@@ -164,7 +164,7 @@ export const experiences = [
     // img: "",
     role: "Frontend Developer",
     company: "Test Yantra Software Solution",
-    date: "September 2022 - March 2023",
+    date: "January 2022 - September 2022",
     desc: " Spearheaded the design and development of the front end of a website during an 8-month tenure at Test Yantra Software Solution.Successfully translated project requirements into visually appealing and user-friendly web interfaces, ensuring a seamless and engaging user experience. Collaborated closely with cross-functional teams, including back-end developers and UI/UX designers, to ensure alignment with project goals and timelines.",
     skills: [
       "ReactJS",
