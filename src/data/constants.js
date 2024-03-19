@@ -148,7 +148,7 @@ export const experiences = [
     // img: "",
     role: "Web Developer",
     company: "PHN Technologies",
-    date: "April 2023 - August 2023",
+    date: "April 2023 - June 2023",
     desc: "I actively participated in the design and development of an e-commerce project leveraging my skills in website designing. I collaborated closely with the team to create visually appealing and user-friendly web interfaces.",
     skills: [
       "React",
@@ -164,8 +164,8 @@ export const experiences = [
     // img: "",
     role: "Frontend Developer",
     company: "Test Yantra Software Solution",
-    date: "January 2022 - September 2022",
-    desc: " Spearheaded the design and development of the front end of a website during an 8-month tenure at Test Yantra Software Solution.Successfully translated project requirements into visually appealing and user-friendly web interfaces, ensuring a seamless and engaging user experience. Collaborated closely with cross-functional teams, including back-end developers and UI/UX designers, to ensure alignment with project goals and timelines.",
+    date: "Nov 2022 - March 2023",
+    desc: " Mastered HTML and CSS during the initial first month of the internship.Seamlessly integrated these skills into React, contributing to the development of web applications",
     skills: [
       "ReactJS",
       "Bootstrap",
