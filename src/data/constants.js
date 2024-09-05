@@ -5,11 +5,12 @@ export const Bio = {
   roles: [
     "Front-End Developer",
     "Back-End Developer",
+    "Data Analyst",
     "UI/UX Designer",
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "Dynamic Front End Developer and Analyst with a Master's degree in Computer Application, adept in modern web technologies.Skilled in HTML, CSS, React, Python, Tableau and diverse front-end frameworks. Collaborative team player, delivering high-quality products within tight deadlines. Committed to staying abreast of industry trends and refining technical skills. Passionate about crafting innovative, user-centric solutions for enhanced digital experiences.",
   github: "https://github.com/omkarrai0601",
   resume:
     "",
@@ -100,6 +101,33 @@ export const skills = [
   },
 
   {
+    title: "Data Analysis",
+    skills: [
+      {
+        name: "Python",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      },
+      {
+        name: "MySQL",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      },
+      {
+        name: "Excel",
+        image:
+          "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92/image-size/medium?v=v2&px=400",
+      },
+      {
+        name: "Tableau",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAQlBMVEVHcExwmaVwmaVlgJtwmaXrkShwmaVah5vrkShah5vodizodizodixbZZFbZZFbZZFbZZHHIDYeRH7HIDYeRH4eRH76/o4UAAAAFXRSTlMAEPw7VXizePb2NP3ws1P8EHh49vNnJOVcAAAAr0lEQVR4AX3Q0RaFEBCF4Q1SCKT3f9WTuaE1R99FN/9iTHgRAmtSYkVpKbUCYwyATT42ANZitu/zyeNgccyco9mJodfCHsSyCIzIrnUOWM70nkdapQsBeK+iNgVgRKJOhU5LzWNMEYCQnYDzIQRPH4ecuvwZv6/9fhApZY61YnZd809o7V90jsVykQJSW7vv1iqLOY/Irk1pOVPFlKLikVY50+Nkq5BxkhkzV3LG7AcvlAr9NZNe3AAAAABJRU5ErkJggg==",
+      },
+      
+    ],
+  },
+
+  {
     title: "Others",
     skills: [
       {
@@ -143,6 +171,17 @@ export const skills = [
 ];
 
 export const experiences = [
+
+
+  {
+    id: 0,
+    // img: "",
+    role: "Associate Analyst",
+    company: "Global Logic (Hitachi Group Company)",
+    date: "April 2024 - Current",
+    desc: "Conducted initial data analysis tasks to support senior analysts in identifying trends and patterns within datasets.Contributed to team projects by providing analytical insights and recommendations based on data-driven research.Demonstrated strong attention to detail and accuracy in maintaining and updating data repositories for team access",
+  },
+
   {
     id: 0,
     // img: "",
@@ -150,13 +189,13 @@ export const experiences = [
     company: "PHN Technologies",
     date: "April 2023 - June 2023",
     desc: "I actively participated in the design and development of an e-commerce project leveraging my skills in website designing. I collaborated closely with the team to create visually appealing and user-friendly web interfaces.",
-    skills: [
-      "React",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Bootstrap",
-    ],
+    // skills: [
+    //   "React",
+    //   "HTML",
+    //   "CSS",
+    //   "JavaScript",
+    //   "Bootstrap",
+    // ],
     
   },
   {
@@ -166,14 +205,14 @@ export const experiences = [
     company: "Test Yantra Software Solution",
     date: "Nov 2022 - March 2023",
     desc: " Mastered HTML and CSS during the initial first month of the internship.Seamlessly integrated these skills into React, contributing to the development of web applications",
-    skills: [
-      "ReactJS",
-      "Bootstrap",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
+    // skills: [
+    //   "ReactJS",
+    //   "Bootstrap",
+    //   "Material UI",
+    //   "HTML",
+    //   "CSS",
+    //   "JavaScript",
+    // ],
    
   },
   
