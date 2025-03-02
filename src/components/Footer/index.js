@@ -85,6 +85,7 @@ const Copyright = styled.p`
 `;
 
 function Footer() {
+  
   return (
     <FooterContainer>
       <FooterWrapper>
@@ -102,9 +103,9 @@ function Footer() {
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>
-          &copy; 2023 Omkar Rai. All rights reserved.
-        </Copyright>
+        {/* <Copyright>
+          &copy; Omkar Rai.
+        </Copyright> */}
 
       </FooterWrapper>
     </FooterContainer>
